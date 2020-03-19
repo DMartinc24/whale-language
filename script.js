@@ -1,6 +1,4 @@
 
-let input = document.getElementById("input").value;
-
 function whaleLanguage(){
 let input = document.getElementById("input").value;
 const wovels = ["a","e","i","o","u"];
