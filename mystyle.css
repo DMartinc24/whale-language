@@ -1,0 +1,44 @@
+
+body {
+  background-image: url("https://static-dailymakeover.stylecaster.com/2015/04/salt-water.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: black;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1 {
+  color: #e6ffff;
+  font-size: 30px;
+}
+
+label {
+  color: #003333;
+}
+
+p {
+  color: #0000ff;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 40px;
+}
+
+div {
+  color: #006400;
+  font-style: oblique;
+  font-size: 15px;
+}
+
+button {
+  background-color: #ffff66;
+  color: #0000b3;
+  border-radius: 50%;
+  font-size: 15px;
+  border: none;
+  display: inline-block;
+  padding: 20px;
+  cursor: pointer;
+  font-family: sans-serif;
+}
