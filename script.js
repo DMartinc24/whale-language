@@ -4,7 +4,7 @@ const wovels = ["a","e","i","o","u"];
 let whale = document.getElementById("whale");
 let result = document.getElementById("demo");
 let resultArray = [];
-const error = "Cannot convert into whale language, because no wovels were provided";
+const error = "Cannot convert into whale language, because no vowels were provided";
 
 for (let inputIndex = 0; inputIndex < input.length; inputIndex ++){
  for (let wovelIndex = 0; wovelIndex < wovels.length; wovelIndex++){
